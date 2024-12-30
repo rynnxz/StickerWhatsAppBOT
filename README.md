@@ -35,7 +35,7 @@
   ```json
   {
     "name": "StickerBOT",
-    "author": "@DrelezTM",
+    "author": "@rynnxz",
     "prefix": "!",
     "timezone": "Asia/Jakarta",
     "groups": true
